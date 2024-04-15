@@ -1,15 +1,31 @@
-# FoodFinder
+# Food Finder (Desktop Application)
 
-Food Finder in Bangladesh is a mobile app designed to assist users in discovering the perfect food options available in various restaurants. The app offers a comprehensive search functionality, enabling users to explore different types of cuisine and locate food options in different locations across Bangladesh. It caters to the preferences of food lovers, providing a diverse range of culinary choices.
+## Overview
+Food Finder is a desktop application designed to help the users to find the right food from various restaurants. This application allows the users to search for food of different locations and in different cuisines. Users can search different categories based on their choice. It will be a perfect destination for food lover people.
 
-Key Features:
+## Objective
+The main objective of this project is to lessen the hassle of finding food in a particular area. Users can easily know the info of restaurants and also know their menu at a fingertip. Customers can also find the food that will fit within their budget. It will save their valuable time as well as they can save their money. 
 
-  1. Restaurant Menus: Users can access menus from various restaurants.
-  2. Organized by Location and Cuisine: Menus are categorized based on different locations and cuisines.
-  3. Customer Reviews: The app displays reviews from different customers for better decision-making.
-  4. Price Comparison: Users can compare the prices of similar food items from different restaurants.
-  5. Budget-Friendly Options: Customers can explore food options that match their budget.
-  6. Restaurant Offers: The app features offers and deals from multiple restaurants.
-  7. Customer Reviews: Users have the option to add their own reviews for different restaurants.
-     
-Languages: Java Database: MySQL
+## Requirements
+
+Programming Language: Java
+
+Database: MySQL
+
+IDE: NetBeans 
+
+## Features
+
+1. User can see menus of different restaurants. 
+2. All the menus will be arranged according to different locations and cuisines.  
+3. There will option to show reviews of all customers.
+4. User can check same type of foods in different prices from different restaurants.
+5. Customer can compare different foods within his/her budget. 
+6. User can search food by different locations and cuisines.
+7. This application will show various offers of the restaurants.
+7. Customer can add rating and give review to different restaurants.
+8. Overall rating of restaurant will adjust automatically according to customer's indivisual rating.  
+
+## Entity Relationship Diagram (ERD)
+
+![efeefe](https://user-images.githubusercontent.com/30154496/82139814-75d43780-984c-11ea-9d63-6ec1ce5e3cd0.jpg)
