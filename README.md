@@ -1,4 +1,4 @@
-# Food Finder (Desktop Application)
+# Food Finder
 
 ## Overview
 Food Finder is a desktop application designed to help the users to find the right food from various restaurants. This application allows the users to search for food of different locations and in different cuisines. Users can search different categories based on their choice. It will be a perfect destination for food lover people.
